@@ -17,3 +17,4 @@
 12.Script to print the type of the file name 'iamafile'.
 13.Creates a symbolic link to '/bin/ls'.
 13.Creates a symbolic link to '/bin/ls', named __ls__.
+14.Copies all newer HTML files from current working directory to parent directory.
