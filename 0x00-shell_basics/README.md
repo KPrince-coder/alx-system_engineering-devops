@@ -11,3 +11,4 @@
 7.Move a file from '/tmp/' to '/tmp/my_first_directory'.
 8.Deletes a file from '/tmp/my_first_directory/'.
 9.Deletes my_first_directory from /tmp/ directory.
+10.Changes working directory to the previous one.
