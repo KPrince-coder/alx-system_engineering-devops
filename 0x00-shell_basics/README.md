@@ -3,3 +3,7 @@
 2.Changes working directory to home directory.
 3.Displays current directory contents in a long format.
 4.Displays current directory contents, including hidden files.
+5.Displays current directory contents:
+  i. long format
+  ii. with user and group IDs displayed numerically
+  iii. and hidden files.
