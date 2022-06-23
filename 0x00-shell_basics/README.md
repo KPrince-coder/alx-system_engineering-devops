@@ -12,3 +12,5 @@
 8.Deletes a file from '/tmp/my_first_directory/'.
 9.Deletes my_first_directory from /tmp/ directory.
 10.Changes working directory to the previous one.
+11.Lists all files, including hidden files, in the current directory and the parent
+   of the working directory and the '/boot' directory (in order), in long format.
