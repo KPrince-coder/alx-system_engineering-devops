@@ -15,3 +15,5 @@
 11.Lists all files, including hidden files, in the current directory and the parent
    of the working directory and the '/boot' directory (in order), in long format.
 12.Script to print the type of the file name 'iamafile'.
+13.Creates a symbolic link to '/bin/ls'.
+13.Creates a symbolic link to '/bin/ls', named __ls__.
