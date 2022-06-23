@@ -7,3 +7,4 @@
   i. long format
   ii. with user and group IDs displayed numerically
   iii. and hidden files.
+6.Creates a directory named 'my_first_directory' in the /tmp/ directory.
