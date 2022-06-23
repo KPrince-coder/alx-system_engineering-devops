@@ -8,3 +8,4 @@
   ii. with user and group IDs displayed numerically
   iii. and hidden files.
 6.Creates a directory named 'my_first_directory' in the /tmp/ directory.
+7.Move a file from '/tmp/' to '/tmp/my_first_directory'.
