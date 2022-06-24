@@ -9,3 +9,4 @@
 8.Adds different permissions to various users.
 9.Setting the mode of the file 'hello'.
 10.Sets the mode of th file 'hello' the same as 'olleh's' mode.
+11.Adds execute permission to all directories of the current directory for all users.
