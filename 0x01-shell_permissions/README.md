@@ -3,3 +3,4 @@
 2.Prints all the groups the current user belong to.
 3.Changes the owner of the file 'hello' to the user 'betty'.
 4.Scripts creates an empty file called 'hello'.
+5.Adds execute permission to the owner of the file 'hello'.
