@@ -8,3 +8,4 @@
 7.Adds execution permission to the owner, the group owner and the other users, to the file 'hello'.
 8.Adds different permissions to various users.
 9.Setting the mode of the file 'hello'.
+10.Sets the mode of th file 'hello' the same as 'olleh's' mode.
