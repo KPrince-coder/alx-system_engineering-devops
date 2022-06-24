@@ -6,3 +6,4 @@
 5.Adds execute permission to the owner of the file 'hello'.
 6.Adds execute permission to the owner and the group ow otherusers, to the file 'hello'.
 7.Adds execution permission to the owner, the group owner and the other users, to the file 'hello'.
+8.Adds different permissions to various users.
