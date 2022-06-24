@@ -11,3 +11,4 @@
 10.Sets the mode of th file 'hello' the same as 'olleh's' mode.
 11.Adds execute permission to all directories of the current directory for all users.
 12.Creates a directory with permissions in a single command.
+13.Changes group owner of a file.
