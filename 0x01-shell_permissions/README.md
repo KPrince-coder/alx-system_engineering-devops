@@ -12,3 +12,4 @@
 11.Adds execute permission to all directories of the current directory for all users.
 12.Creates a directory with permissions in a single command.
 13.Changes group owner of a file.
+14.Changes the owner and group of all files and directories in the present working directory.
