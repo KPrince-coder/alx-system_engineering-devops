@@ -21,3 +21,4 @@
 15.Moves all files beginning with an upercase letter to the directory '/tmp/u'.
 16.Deletes all files in the current working directory that end with the character '~'.
 17.Creates a parent directory with it's subdirectories in one command.
+18.Lists all the files and directories of the current directory separated by commas, and arranged in alpha order, except for hidden directories.
