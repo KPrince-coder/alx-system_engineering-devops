@@ -19,3 +19,4 @@
 13.Creates a symbolic link to '/bin/ls', named __ls__.
 14.Copies all newer HTML files from current working directory to parent directory.
 15.Moves all files beginning with an upercase letter to the directory '/tmp/u'.
+16.Deletes all files in the current working directory that end with the character '~'.
