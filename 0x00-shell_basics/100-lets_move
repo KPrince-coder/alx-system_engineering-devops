@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:uppercase:]]* /tmp/u
+find [[:upper:]]* -type f | exargs mv -t  /tmp/u
