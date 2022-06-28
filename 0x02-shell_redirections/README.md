@@ -8,3 +8,4 @@ Project assigments on shell, I/O redirections and filters.
 6.Prints the third line of the file 'iacta'.
 7.Creates a file containing the text 'Best School'.
 8.Writes into a file and deletes already existing content, that's i if it already has a content.
+9.Duplicates the last line of the file 'iacta'.
