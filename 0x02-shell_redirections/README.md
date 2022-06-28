@@ -7,3 +7,4 @@ Project assigments on shell, I/O redirections and filters.
 5.Display the first 10 lines of '/etc/passwd'.
 6.Prints the third line of the file 'iacta'.
 7.Creates a file containing the text 'Best School'.
+8.Writes into a file and deletes already existing content, that's i if it already has a content.
