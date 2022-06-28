@@ -6,3 +6,4 @@ Project assigments on shell, I/O redirections and filters.
 4.Display the last 10 lines of '/etc/passwd'.
 5.Display the first 10 lines of '/etc/passwd'.
 6.Prints the third line of the file 'iacta'.
+7.Creates a file containing the text 'Best School'.
