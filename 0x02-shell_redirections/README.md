@@ -10,3 +10,4 @@ Project assigments on shell, I/O redirections and filters.
 8.Writes into a file and deletes already existing content, that's i if it already has a content.
 9.Duplicates the last line of the file 'iacta'.
 10.Deletes all the regular files with a .js extension that are present in the current directory and all its subfolders.
+11.Counts the number of directories and sub-directories in the current directory.
