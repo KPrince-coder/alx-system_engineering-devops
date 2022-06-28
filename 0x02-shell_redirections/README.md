@@ -12,3 +12,4 @@ Project assigments on shell, I/O redirections and filters.
 10.Deletes all the regular files with a .js extension that are present in the current directory and all its subfolders.
 11.Counts the number of directories and sub-directories in the current directory.
 12.Display the 10 newest files in the current directory.
+13.Takes a list of words as input and prints only words that appear exactly once.
