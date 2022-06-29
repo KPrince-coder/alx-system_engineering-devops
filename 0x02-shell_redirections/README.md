@@ -20,3 +20,4 @@ Project assigments on shell, I/O redirections and filters.
 18.Display all the lines of the file '/etc/ssh/sshd_config' starting with a letter.
 19.Replace all characters 'A' and 'c' from input to 'Z' and 'e' respectively.
 20.Removes all letters 'c' and 'C' from input.
+21.Reverse its input.
