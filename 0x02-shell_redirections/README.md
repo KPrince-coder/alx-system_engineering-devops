@@ -21,3 +21,4 @@ Project assigments on shell, I/O redirections and filters.
 19.Replace all characters 'A' and 'c' from input to 'Z' and 'e' respectively.
 20.Removes all letters 'c' and 'C' from input.
 21.Reverse its input.
+22.Displays all users and their home directories, sorted by users.
