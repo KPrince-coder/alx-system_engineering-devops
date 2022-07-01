@@ -15,3 +15,4 @@ Shell, init files, variables and expansions project assignments
 13.Prints a number with two decimal places, followed by a new line.
 14.Converts a number from base 10 to base 16.
 15.Encodes and decodes text using rot13 encryption.
+16.Prints every other line from the input, starting with the first line.
