@@ -16,3 +16,5 @@ Shell, init files, variables and expansions project assignments
 14.Converts a number from base 10 to base 16.
 15.Encodes and decodes text using rot13 encryption.
 16.Prints every other line from the input, starting with the first line.
+17.Adds the two numbers stored in the environment variables 'WATER' and 'STIR' and prints the result.
+
