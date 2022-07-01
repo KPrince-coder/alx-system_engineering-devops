@@ -14,3 +14,4 @@ Shell, init files, variables and expansions project assignments
 12.Prints all possible combinations of two letters, except 'oo'.
 13.Prints a number with two decimal places, followed by a new line.
 14.Converts a number from base 10 to base 16.
+15.Encodes and decodes text using rot13 encryption.
