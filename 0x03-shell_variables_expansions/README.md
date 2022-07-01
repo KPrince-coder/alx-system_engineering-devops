@@ -12,3 +12,4 @@ Shell, init files, variables and expansions project assignments
 10.Displays the result of 'BREATH' to the power 'LOVE'.
 11.Converts a number from base 2 to base 10.
 12.Prints all possible combinations of two letters, except 'oo'.
+13.Prints a number with two decimal places, followed by a new line.
