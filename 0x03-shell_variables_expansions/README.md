@@ -8,3 +8,4 @@ Shell, init files, variables and expansions project assignments
 6.Creates a new local variable.
 7.Creates a new global variable.
 8.Prints the result of the addition of '128' with the value stored in an environment variable.
+9.Prints the result of the division of two environment variables.
